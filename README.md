@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @izacarias (Iulisloi)
-- 👀 I’m interested in a miryad of things, but specially in 6G and network protocols for next generation of networks
-
-<!---
-izacarias/izacarias is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Hi, I’m @izacarias
+- I have a M. Sc. degree in Computer Science from the (Federal University of Rio Grande do Sul)[https://www.ufrgs.br], in Porto Alegre (💚❤️💛), Brazil (🇧🇷).
+- Currenly I am living in Germany, where I embarked on a journay trying to get my PhD degree.
+- My current interest is 5G mobile networks and its evolution.
