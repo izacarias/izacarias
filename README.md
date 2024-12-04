@@ -8,3 +8,4 @@
   - Network Slicing
   - Intent-Based networks
   - Zero-Touch networks
+  - Positioning and Localization in 5G
